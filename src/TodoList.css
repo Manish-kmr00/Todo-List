@@ -1,0 +1,55 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+.container {
+    margin: 100px 400px;
+    padding-bottom: 250px;
+    background-color: rgb(101, 101, 240);
+
+}
+
+.header {
+    font-size: 45px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+
+.container input {
+    padding: 10px;
+    background-color: white;
+    margin-left: 20px;
+
+}
+
+
+.container button {
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+
+.container p {
+    margin-top: 20px;
+    font-size: 27px;
+    margin-left: 20px;
+}
+
+
+
+.listData p div {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5px;
+}
+
+
+.list {
+    background-color: rgb(192, 244, 250);
+    margin-left: 5px;
+    border-radius: 5px;
+}
